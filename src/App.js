@@ -8,19 +8,19 @@ import About from "./components/About";
 import Resume from "./components/Resume";
 import Contact from "./components/Contact";
 import Portfolio from "./components/Portfolio";
-import resumeData from './resumeData';
+import pageData from './pageData';
 
 class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
       foo: "bar",
-      resumeData: {}
+      pageData: {}
     };
   }
 
   getResumeData() {
-    this.setState({ resumeData });
+    this.setState({ pageData });
   }
 
   componentDidMount() {
@@ -30,12 +30,12 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Header data={this.state.resumeData.main} />
-        <About data={this.state.resumeData.main} />
-        <Resume data={this.state.resumeData.resume} />
-        <Portfolio data={this.state.resumeData.portfolio} />
-        <Contact data={this.state.resumeData.main} />
-        <Footer data={this.state.resumeData.main} />
+        <Header data={this.state.pageData.main} />
+        <About data={this.state.pageData.main} />
+        <Resume data={this.state.pageData.resume} />
+        <Portfolio data={this.state.pageData.portfolio} />
+        <Contact data={this.state.pageData.main} />
+        <Footer data={this.state.pageData.main} />
       </div>
     );
   }

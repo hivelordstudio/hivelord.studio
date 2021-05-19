@@ -15,18 +15,12 @@ class About extends Component {
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
     const email = this.props.data.email;
-    const resumeDownload = this.props.data.resumedownload;
 
     return (
       <section id="about">
         <Fade duration={1000}>
           <div className="row">
             <div className="three columns">
-              <img
-                className="profile-pic"
-                src={Avatar}
-                alt="Freelog Studio Profile Pic"
-              />
             </div>
             <div className="nine columns main-col">
               <h2>About Us</h2>
