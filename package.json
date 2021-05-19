@@ -23,7 +23,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "ipfs-deploy -p infura ./build"
+    "deploy": "ipfs-deploy -p infura ./build -d cloudflare"
   },
   "eslintConfig": {
     "extends": [
