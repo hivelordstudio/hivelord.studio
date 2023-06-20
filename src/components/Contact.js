@@ -33,7 +33,7 @@ class Contact extends Component {
         user_name: '',
         user_email: '',
         contact_number: '',
-	contact_subject: 'Freelog Studio Inquiry',
+	contact_subject: 'Hivelord Studio Inquiry',
         message: ''
       }
     });

@@ -23,7 +23,7 @@ class Footer extends Component {
               <ul className="social-links">{networks}</ul>
 
               <ul className="copyright">
-                <li>&copy; Copyright 2021 Freelog Studio LLC</li>
+                <li>&copy; Copyright 2021 Hivelord Studio LLC</li>
               </ul>
             </div>
           </Fade>

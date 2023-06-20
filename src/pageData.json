@@ -1,26 +1,26 @@
 {
   "main": {
-    "name": "Freelog Studio",
-    "description": "Delivering weapons-grade DeFi, right to your user",
+    "name": "Hivelord Studio",
+    "description": "Shipping weapons-grade DeFi, straight to your user",
     "image": "profilepic.jpg",
-    "bio": "Freelog Studio is a development workshop devoted to high quality Ethereum development, working with some of the best minds in DeFi to deliver user-facing products.",
-    "contactmessage": "Contact Freelog Studio today for more information",
-    "email": "freelogstudio@gmail.com",
+    "bio": "Hivelord Studio is a development workshop devoted to high quality Ethereum development, working with some of the best minds in DeFi to deliver user-facing products.",
+    "contactmessage": "Contact Hivelord Studio today for more information",
+    "email": "hivelordstudio@aol.com",
     "phone": "307-886-4700",
-    "github": "https://github.com/freelogstudio/freelogstudio.dev",
-    "project": "https://github.com/freelogstudio/freelogstudio.dev",
+    "github": "https://github.com/hivelordstudio/",
+    "project": "https://github.com/hivelordstudio/hivelord.studio/",
     "address": {
       "street": "1309 Coffeen Avenue STE 1200",
       "city": "Sheridan",
       "state": "Wyoming",
       "zip": "82801"
     },
-    "website": "https://freelogstudio.dev",
+    "website": "https://hivelordstudio.dev",
     "resumedownload": "about:blank",
     "social": [
       {
         "name": "facebook",
-        "url": "https://github.com/freelogstudio/freelogstudio.dev",
+        "url": "https://github.com/hivelord/hivelordstudio.dev",
         "className": "fa fa-facebook"
       },
       {
@@ -30,7 +30,7 @@
       },
       {
         "name": "github",
-        "url": "https://github.com/freelogstudio",
+        "url": "https://github.com/hivelordstudio",
         "className": "fa fa-github"
       }
     ]

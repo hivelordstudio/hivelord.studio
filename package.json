@@ -1,5 +1,5 @@
 {
-  "name": "reactniceresume",
+  "name": "hivelord.studio",
   "version": "0.1.0",
   "private": true,
   "homepage": "./",
@@ -14,9 +14,13 @@
     "react-dom": "^17.0.1",
     "react-ga": "^3.3.0",
     "react-reveal": "^1.2.2",
-    "react-scripts": "4.0.3",
+    "react-scripts": "5.0.1",
     "react-zmage": "^0.8.5-beta.36",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "chokidar": "^3.5.1",
+    "emailjs-com": "^2.6.4",
+    "ipfs-deploy": "^8.0.1",
+    "script-loader": "^0.7.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -43,10 +47,8 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "chokidar": "^3.5.1",
-    "emailjs-com": "^2.6.4",
-    "ipfs-deploy": "^8.0.1",
-    "script-loader": "^0.7.2"
-  }
+  "main": "index.js",
+  "repository": "https://github.com/hivelordstudio/hivelord.studio.git",
+  "author": "Amara <amara.nicole@utexas.edu>",
+  "license": "MIT"
 }
